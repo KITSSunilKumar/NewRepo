@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14375" started-at="2019-04-14T06:08:21Z" finished-at="2019-04-14T06:08:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14375" started-at="2019-04-14T06:08:21Z" finished-at="2019-04-14T06:08:36Z">
+      <class name="webdriverTest2.webdriverTest2.AppTest">
+        <test-method status="PASS" signature="launchBankingPage()[pri:0, instance:webdriverTest2.webdriverTest2.AppTest@6d00a15d]" name="launchBankingPage" is-config="true" duration-ms="9987" started-at="2019-04-14T11:38:21Z" finished-at="2019-04-14T11:38:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBankingPage -->
+        <test-method status="PASS" signature="titleVerification()[pri:0, instance:webdriverTest2.webdriverTest2.AppTest@6d00a15d]" name="titleVerification" duration-ms="341" started-at="2019-04-14T11:38:31Z" finished-at="2019-04-14T11:38:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleVerification -->
+        <test-method status="PASS" signature="login()[pri:0, instance:webdriverTest2.webdriverTest2.AppTest@6d00a15d]" name="login" duration-ms="3798" started-at="2019-04-14T11:38:32Z" finished-at="2019-04-14T11:38:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeUrl()[pri:0, instance:webdriverTest2.webdriverTest2.AppTest@6d00a15d]" name="closeUrl" is-config="true" duration-ms="219" started-at="2019-04-14T11:38:36Z" finished-at="2019-04-14T11:38:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUrl -->
+      </class> <!-- webdriverTest2.webdriverTest2.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
